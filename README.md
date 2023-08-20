@@ -7,3 +7,7 @@ The State of Iowa controls the wholesale distribution of liquor intended for ret
 Due to size, datasets can be found on my google drive: 
 - [Raw data](https://drive.google.com/drive/folders/1UdPyHXVwa6epscCOJJfsA6LcqmL8jRAy?usp=drive_link)
 - [Prepared data](https://drive.google.com/drive/folders/1A41UZkQM4lvq98LiCfbrvTPobmjLtrjj?usp=drive_link)
+
+The Tableau storyboard can be found [here](https://public.tableau.com/views/IowaLiquorAnalysis_16925455199810/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link).
+
+Due to time constraints the demographic and college information has yet to be incorporated into the final analysis, this will be conducted at a later stage.
